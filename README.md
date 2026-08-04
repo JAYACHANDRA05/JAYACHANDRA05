@@ -2,10 +2,11 @@
 <h3 align="center">Computer Science Undergraduate | C++ Developer | DSA Enthusiast | Frontend Developer</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a> •
-  <a href="YOUR_CODEFORCES_URL">Codeforces</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+  <a href="https://www.linkedin.com/in/jayachandra05/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Jayachandra05/">LeetCode</a> •
+  <a href="https://codeforces.com/profile/Jayachandra05">Codeforces</a> •
+  <a href="https://www.geeksforgeeks.org/profile/jayachandra059">GeeksforGeeks</a>
+  <a href="https://github.com/JAYACHANDRA05">GitHub</a>
 </p>
 
 ---
